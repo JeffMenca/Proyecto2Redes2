@@ -13,13 +13,10 @@ iface enx00e04c360131 inet static
   address 192.168.1.1/30
 
 #RED CLIENTE
-#auto enx00e04c360117
-#iface enx00e04c360117 inet static
- # address 192.168.100.1/24 
-
 auto enx00e04c36015e
 iface enx00e04c36015e inet static
   address 192.168.100.1/24
 
 
 EOL
+
